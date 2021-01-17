@@ -1,3 +1,3 @@
 # hello-world
 
-I'm laura, student and new to programming.
+I'm laura, student and new to programming. 
